@@ -17,8 +17,9 @@ body{
 }
 .objective{
 	margin-left: 80px;
-	font-weight: 800;
-	font-size: medium;
+	margin-right: 40px;
+	font-weight: 700;
+	font-size: 18px;
 } 
 
 div.inc {
@@ -184,7 +185,7 @@ a:link {
   }
   .i1
 {
-	margin-left: 10px;
+	margin-left: 30px;
 	padding: 7px;
 	border-width: 2px;
 	border-style: solid;
@@ -228,4 +229,8 @@ a:link {
 	font-size: 12px;
 	font-style: italic;
 	color: rgb(161, 161, 210);
+  }
+  .interest
+  {
+	margin-left: 30px;
   }
