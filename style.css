@@ -1,0 +1,231 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color: rgb(177, 222, 234);
+	height: 100vh;
+	font-family: 'Times New Roman', Times, serif;
+
+
+}
+.verytop{
+
+	margin: 100px;
+	margin-left: 400px;
+	color: black;
+	font-size:1000%;
+	
+}
+.objective{
+	margin-left: 80px;
+	font-weight: 800;
+	font-size: medium;
+} 
+
+div.inc {
+    font-style: italic;
+}
+.main{
+
+	height: 1400px;
+	width: 900px;
+	background-color: white;
+	box-shadow: 5px 7px 15px 5px #b9b6b6;
+	margin: 2px auto;
+    
+}
+p{
+	font-weight: bold;
+	font-size: 18px;
+}
+
+.top-section{
+	padding: 20px;
+}
+
+.p1{
+	color: black;
+	font-size: 40px;
+	font-weight: 40;
+	margin: 0px;
+	margin-top: 10px;
+    margin-left: 60px;
+}
+.p2{
+	font-size: 35px;
+	color: navy;
+	margin: 0px;
+	margin-top: 10px;
+    margin-left: 60px;
+}
+.col-div-4{
+	width: 50%;
+	float: left;
+
+}
+
+.col-div-8{
+	width: 50%;
+	float: left;
+}
+
+.content-box{
+	padding: 20px;
+}
+.head{
+    color: navy;
+	font-size: 24px;
+	text-transform: uppercase;
+	font-weight: 600;
+}
+.p3{
+	color: black;
+	margin-bottom: -5px;
+	font-size: 20px;
+
+}
+
+.p-4{
+	font-size: 14px;
+	color: #7b7b7b;
+    
+}
+.skills{
+	
+	display: inline-grid;
+	grid-template-columns: auto 120px auto;
+	justify-content: center;
+	text-align: center;
+	
+}
+.skills > div{
+ 
+	margin: 10px;
+	border-radius: 4px;
+	color: white;
+	background-color: rgb(104, 104, 210);
+	/* opacity: 0.5; */
+    
+    
+}
+
+.blue{
+	display: inline-grid;
+	grid-template-columns: auto 120px auto;
+	justify-content: center;
+	text-align: center;
+	
+	color: white;
+   background-color: #2b3d66;
+   border-bottom: 20px;
+   display: grid;
+   grid-template-columns: auto auto auto auto;
+   grid-template-rows: 30px 30px;
+   justify-content: space-evenly;
+   align-content: space-evenly;
+   padding: 10px;
+
+}
+.address{
+	padding-top: 6px;
+    margin-left: -17px;
+}
+.linkedin{
+	color: white;
+    margin-left: 0px;
+    margin-right: 66px;
+}
+
+a:link {
+	color: white;
+	background-color: transparent;
+	text-decoration: none;
+  }
+  a:visited {
+	color: white;
+	background-color: transparent;
+	text-decoration: none;
+  }
+  a:hover {
+	color: black;
+	background-color: transparent;
+	text-decoration: none;
+  }
+  
+  .contact{
+	margin-left: -61px;
+  }
+  .email{
+	width: 20px;
+	height: 20px;
+	border-radius: 4px;
+	border-bottom-left-radius: 4px;
+	border-bottom-right-radius: 4px;
+  }
+  .mail{
+	margin-left: 33px;
+  }
+  .mobile{
+	width: 20px;
+    height: 20px;
+    border-radius: 4px;
+    margin-left: 155px;
+  }
+  .social{
+	width: 20px;
+    height: 20px;
+    border-radius: 4px;
+    margin-left: 156px;
+  }
+  .location
+  {
+	width: 20px;
+    height: 20px;
+    border-radius: 50%;
+  }
+  .i1
+{
+	margin-left: 10px;
+	padding: 7px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #2b3d66;
+	
+}
+.i2
+{
+	margin-left: 10px;
+	padding: 7px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #2b3d66;
+	
+}
+.i3
+{
+	margin-left: 10px;
+	padding: 7px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #2b3d66;
+	
+}
+.p11
+  {
+	font-size: 15px;
+  }
+  .idate,.inc{
+	color: rgb(161, 161, 210);
+  }
+ 
+  .date
+  {
+	
+	color: rgb(161, 161, 210);
+  }
+  .marks{
+	margin-left: 240px;
+	margin-top: -35px;
+	font-size: 12px;
+	font-style: italic;
+	color: rgb(161, 161, 210);
+  }
